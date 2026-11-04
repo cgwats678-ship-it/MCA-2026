@@ -1,5 +1,5 @@
 
-# Watson Portfolio 26
+# Week 1
 <!-- Version 1.0 -->
 My theme for my dataset will be music from Olivia Rodrigo. Rodrigo is a singer, songwriter, former actress, and a major figure in the world of modern pop music. She has released three studio albums as well as several singles and EPs. I have been a fan of hers since before she started releasing music independently, and I am excited to delve deeper into her songs through this project. The song I have chosen for this assignment is "begged" from her third album "you seem pretty sad for a girl so in love." 
 
