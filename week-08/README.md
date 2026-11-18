@@ -6,7 +6,7 @@
 | **Copyright** | [Copyright info] | [Copyright info] | [Copyright info] |
 | **Genre** | [Genre] | [Genre] | [Genre] |
 | **Source** | [Source] | [Source] | [Source] |
-| **File Format** | WAV / MP3 | WAV / MP3 | WAV / MP3 |
+| **File Format** | MP3 |  MP3 | MP3 |
 | **Channels** | Stereo (2) | Stereo (2) | Stereo (2) |
 | **Sample Rate** | 44.1 kHz | 44.1 kHz | 44.1 kHz |
 | **Bitrate** | [e.g., 1411 kbps] | [e.g., 1411 kbps] | [e.g., 1411 kbps] |
