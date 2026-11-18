@@ -1,7 +1,7 @@
 | Metadata Field | Track 1 | Track 2 | Track 3 |
 | :--- | :--- | :--- | :--- |
-| **Title** | [Song Name] | [Song Name] | [Song Name] |
-| **Artist** | [Artist Name] | [Artist Name] | [Artist Name] |
+| **Title** | [love is embarrassing] | [lacy] | [vampire] |
+| **Artist** | [Olivia Rodrigo] | [Olivia Rodrigo] | [Olivia Rodrigo] |
 | **Composer** | [Composer] | [Composer] | [Composer] |
 | **Copyright** | [Copyright info] | [Copyright info] | [Copyright info] |
 | **Genre** | [Genre] | [Genre] | [Genre] |
