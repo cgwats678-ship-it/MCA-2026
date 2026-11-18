@@ -1,8 +1,8 @@
 | Metadata Field | Track 1 | Track 2 | Track 3 |
 | :--- | :--- | :--- | :--- |
-| **Title** | [love is embarrassing] | [lacy] | [vampire] |
-| **Artist** | [Olivia Rodrigo] | [Olivia Rodrigo] | [Olivia Rodrigo] |
-| **Composer** | [Composer] | [Composer] | [Composer] |
+| **Title** | love is embarrassing | lacy | vampire |
+| **Artist** | Olivia Rodrigo | Olivia Rodrigo | Olivia Rodrigo |
+| **Composer** | Olivia Rodrigo, Daniel Nigro | Olivia Rodrigo, Daniel Nigro | Olivia Rodrigo, Daniel Nigro, Paul Cartwright |
 | **Copyright** | [Copyright info] | [Copyright info] | [Copyright info] |
 | **Genre** | [Genre] | [Genre] | [Genre] |
 | **Source** | [Source] | [Source] | [Source] |
