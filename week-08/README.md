@@ -8,6 +8,6 @@
 | **Source** | [Internet Archive ](https://archive.org/details/olivia-rodrigo-tiny-desk-concert-love-is-embarrassing)| [Internet Archive](https://archive.org/details/olivia-rodrigo-tiny-desk-concert-love-is-embarrassing/Olivia+Rodrigo+-+Tiny+Desk+Concert+-+lacy.mp3) | [Internet Archive](https://archive.org/details/olivia-rodrigo-tiny-desk-concert-love-is-embarrassing/Olivia+Rodrigo+-+Tiny+Desk+Concert+-+vampire.mp3) |
 | **File Format** | MP3 |  MP3 | MP3 |
 | **Channels** | Stereo (2) | Stereo (2) | Stereo (2) |
-| **Sample Rate** | 44.1 kHz | 44.1 kHz | 44.1 kHz |
+| **Sample Rate** | 48 kHz | 48 kHz | 48 kHz |
 | **Bitrate** | [e.g., 1411 kbps] | [e.g., 1411 kbps] | [e.g., 1411 kbps] |
-| **Duration** | [0:00] | [0:00] | [0:00] |
+| **Duration** | 4:15 | 3:17 | 4:07 |
