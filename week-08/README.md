@@ -3,9 +3,9 @@
 | **Title** | love is embarrassing | lacy | vampire |
 | **Artist** | Olivia Rodrigo | Olivia Rodrigo | Olivia Rodrigo |
 | **Composer** | Olivia Rodrigo, Daniel Nigro | Olivia Rodrigo, Daniel Nigro | Olivia Rodrigo, Daniel Nigro, Paul Cartwright |
-| **Copyright** | [Copyright info] | [Copyright info] | [Copyright info] |
-| **Genre** | [Genre] | [Genre] | [Genre] |
-| **Source** | [Source] | [Source] | [Source] |
+| **Copyright** | None Listed | None Listed | None Listed |
+| **Genre** | Pop/Alternative Rock | Pop/Singer-Songwriter | Pop/Alternative Pop |
+| **Source** | [Internet Archive ](https://archive.org/details/olivia-rodrigo-tiny-desk-concert-love-is-embarrassing)| [Internet Archive](https://archive.org/details/olivia-rodrigo-tiny-desk-concert-love-is-embarrassing/Olivia+Rodrigo+-+Tiny+Desk+Concert+-+lacy.mp3) | [Internet Archive](https://archive.org/details/olivia-rodrigo-tiny-desk-concert-love-is-embarrassing/Olivia+Rodrigo+-+Tiny+Desk+Concert+-+vampire.mp3) |
 | **File Format** | MP3 |  MP3 | MP3 |
 | **Channels** | Stereo (2) | Stereo (2) | Stereo (2) |
 | **Sample Rate** | 44.1 kHz | 44.1 kHz | 44.1 kHz |
