@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Verovio Score Viewer</title>
+  <script src="https://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js"></script>
+</head>
+<body>
+  <h1>Score Engraving</h1>
+  <div id="notation"></div>
 
+  <h2>MusicXML vs. MEI Comparison</h2>
+  <p>Write your 3 XML element comparisons here.</p>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      verovio.module.onRuntimeInitialized = () => {
+        const tk = new verovio.toolkit();
+
+        fetch("beggedmei.mei")
+          .then((response) => response.text())
+          .then((meiData) => {
+            const svg = tk.renderData(meiData, {});
+            document.getElementById("notation").innerHTML = svg;
+          });
+      };
+    });
+  </script>
+</body>
+</html>
