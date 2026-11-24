@@ -9,5 +9,5 @@
 | **File Format** | MP3 |  MP3 | MP3 |
 | **Channels** | Stereo (2) | Stereo (2) | Stereo (2) |
 | **Sample Rate** | 48 kHz | 48 kHz | 48 kHz |
-| **Bitrate** | [e.g., 1411 kbps] | [e.g., 1411 kbps] | [e.g., 1411 kbps] |
+| **Bitrate** | 320 kbits/s | 320kbits/s | 320kbits/s|
 | **Duration** | 4:15 | 3:17 | 4:07 |
